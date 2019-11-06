@@ -1,0 +1,15 @@
+a maker can sign into their account
+a maker can register an account
+a maker can provide their account information
+a maker can search for markets
+a maker can browse markets
+a maker can filter shows based on specified criteria
+a maker can read reviews other makers have left for a market
+a maker can leave a review for markets they have attended
+a maker can save upcoming shows
+
+a market can register their craft fair
+a market can change their fair's details
+a market can reply to reviews left on their page
+
+a viewer can see upcoming markets
